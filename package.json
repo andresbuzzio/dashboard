@@ -1,0 +1,23 @@
+{
+  "name": "dashboard",
+  "version": "1.0.0",
+  "description": "a dashboard made in react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresbuzzio/dashboard.git"
+  },
+  "keywords": [
+    "dashboard",
+    "react"
+  ],
+  "author": "andres buzzio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresbuzzio/dashboard/issues"
+  },
+  "homepage": "https://github.com/andresbuzzio/dashboard#readme"
+}
